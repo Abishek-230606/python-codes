@@ -37,7 +37,7 @@ This repository contains beginner-friendly programs and data practice work as I 
 
 ## 🙋‍♂️ About Me
 
-I’m **Abishek JS**, a CSE undergrad passionate about Python and Data Science.  
+I’m **Abishek JS**, a CSE undergrad passionate about Python with AI&ML.  
 This repo tracks my journey as I learn and build cool things along the way.
 
 ---
