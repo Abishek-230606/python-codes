@@ -1,0 +1,9 @@
+Customer,Category,Quantity,Price_per_item,Payment_Method
+Abishek,Electronics,2,15000,Card
+Raj,Books,5,300,Cash
+Sara,Fashion,3,1200,UPI
+Karthik,Grocery,10,80,Card
+Asha,Fashion,1,2500,UPI
+Vishnu,Electronics,1,22000,Cash
+Keerthi,Books,2,350,UPI
+Mohan,Grocery,6,90,Card
